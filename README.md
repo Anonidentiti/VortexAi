@@ -7,7 +7,7 @@ Analyzes scan results with AI, providing structured, color-coded output with Met
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/VortexAI.git
+git clone https://github.com/Anonidentiti/VortexAI.git
 cd VortexAI
 
 Run the automated installation script:
